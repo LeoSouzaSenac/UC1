@@ -2,60 +2,93 @@
 
 ## Objetivos da Aula
 
-- **Compreender o desenvolvimento de software**: O que é e por que é importante.
-- **Explorar o conceito de projeto de software**: Suas etapas e importância.
-- **Entender a importância do planejamento**: Como ele influencia o sucesso do software.
-- **Aplicar o conhecimento**: Resolver um estudo de caso prático.
+- **Entender o que é desenvolvimento de software** e por que ele é importante.
+- **Aprender sobre as etapas de um projeto de software** e sua importância.
+- **Ver a importância do planejamento** no desenvolvimento de software.
+- **Aplicar o que aprendemos** resolvendo um estudo de caso simples.
 
-## Parte 1:
-- **Objetivos da Aula**: O que vamos aprender hoje e por que isso é relevante para sua futura carreira em tecnologia.
+## Parte 1: Introdução ao Desenvolvimento de Software
 
-### Introdução ao Desenvolvimento de Software
+### O Que é Software?
 
-- **O Que é Software?**:
-- Pense em software como o cérebro dos seus dispositivos - sem ele, o hardware não faz nada!
-- Vamos discutir as diferentes categorias, como sistemas operacionais e aplicativos.
-  
-- **Exemplos no Dia a Dia**:
-- Quais softwares você usa todos os dias? Como eles impactam sua vida e o mundo ao seu redor?
+- **Definição de Software**:
+  - Imagine que o software é como o cérebro do seu computador ou celular. Ele diz ao hardware (as partes físicas) o que fazer.
+  - Sem software, o hardware não funciona como esperado.
 
+- **Exemplos de Software**:
+  - **Sistemas Operacionais**: Windows, macOS, e Linux.
+  - **Aplicativos**: Navegadores de internet, editores de texto, e jogos.
+  - **Como Eles Impactam a Vida**: Pensar em como usamos esses softwares todos os dias, como no trabalho, na escola, ou para diversão.
 
 ## Parte 2: Conceito de Projeto de Software e Suas Etapas
 
-### Introdução ao Conceito de Projeto de Software
+### O Que é um Projeto de Software?
 
-- **O Que é um Projeto de Software?**:
-- Imagine que você está construindo uma casa.
-- Um projeto de software é similar: você precisa planejar, desenhar, construir, testar e manter.
-  
-- **Importância do Projeto**: Um bom planejamento pode ser a diferença entre um software que funciona bem e um que dá problemas.
+- **Definição Simples**:
+  - Um projeto de software é como construir uma casa. Primeiro, você planeja, depois desenha, constrói, testa e faz manutenção.
+  - **Importância**: Um bom planejamento garante que o software funcione bem e atenda às necessidades do cliente.
 
 ### Etapas de um Projeto de Software
-- **Planejamento**: Definindo o que precisa ser feito e como, como um arquiteto que desenha uma planta.
-- **Design**: Criando o “desenho” do software. Como ele vai funcionar? Que tecnologias serão usadas?
-- **Implementação**: A construção real. É aqui que codificamos o software.
-- **Testes**: Verificando se tudo funciona como deveria, como um teste final para garantir que a casa está segura.
-- **Manutenção**: Fazendo ajustes e melhorias depois que o software está em uso, como consertar pequenos problemas em sua casa.
 
+- **Planejamento**:
+  - **Definição de Requisitos**:
+    - **Requisitos Funcionais**: O que o software deve fazer. Exemplo: “O software deve permitir que o usuário faça login.”
+    - **Requisitos Não Funcionais**: Como o software deve se comportar. Exemplo: “O software deve responder rapidamente.”
+  - **Cronograma**:
+    - **Criar um Cronograma Básico**: Divida o projeto em etapas e defina prazos para cada uma, como criar um calendário para garantir que tudo seja feito a tempo.
+
+- **Design**:
+  - **Modelagem de Dados**:
+    - **Diagrama de Entidade-Relacionamento (ER)**: Um desenho que mostra como os dados são organizados e se relacionam. Como um mapa para entender os dados.
+  - **Design da Interface**:
+    - **Esboços ou Wireframes**: Rascunhos simples mostrando como a tela do software será. Ajuda a visualizar a aparência e a navegação.
+
+- **Implementação**:
+  - **Codificação**:
+    - **Transformar o Design em Código**: Escrever o código para criar o software baseado no design feito.
+
+- **Testes**:
+  - **Testes de Funcionalidade**:
+    - **Verificar se o Software Funciona**: Testar o software para garantir que todas as funções estão operando como esperado.
+  - **Testes de Usabilidade**:
+    - **Avaliar a Facilidade de Uso**: Verificar se o software é fácil de usar para os usuários.
+
+- **Manutenção**:
+  - **Correção de Problemas**:
+    - **Lidar com Erros**: Corrigir problemas que aparecem depois que o software é lançado.
+  - **Atualizações**:
+    - **Adicionar Novas Funcionalidades**: Melhorar o software com novas funções e ajustes com base no feedback dos usuários.
 
 ## Parte 3: Estudo de Caso
 
 ### Apresentação do Estudo de Caso
-- **Cenário**: Vamos imaginar que você está desenvolvendo um sistema de gestão para uma pequena livraria.
-- O que você precisa fazer para garantir que o sistema funcione perfeitamente?
-  
-- **Objetivo**: Identificar as etapas do projeto e como você as abordaria para satisfazer as necessidades do cliente.
 
+- **Cenário**:
+  - Imaginemos que você está criando um sistema para gerenciar uma pequena livraria.
+  - O que você precisa fazer para garantir que o sistema funcione bem?
+
+- **Objetivo**:
+  - Descobrir e documentar as etapas necessárias para criar o sistema, como planejamento, design, implementação, testes e manutenção.
 
 ### Divisão em Grupos e Atividade Prática
-- **Divisão em Grupos**: Forme grupos pequenos para discutir e planejar.
-- **Tarefa do Grupo**: Identifique e documente as etapas do projeto para o sistema da livraria. Defina o que precisa ser feito em cada etapa.
+
+- **Formação de Grupos**:
+  - Divida-se em pequenos grupos para discutir o projeto.
+
+- **Tarefa do Grupo**:
+  - Planeje e documente as etapas para o sistema da livraria. Decida o que deve ser feito em cada etapa e como você vai fazer isso.
 
 ### Apresentação dos Grupos e Discussão
-- **Apresentação**: Cada grupo compartilha suas ideias sobre como abordar o projeto da livraria.
-- **Discussão**: Feedback e discussão sobre as abordagens apresentadas. O que funcionou bem? O que poderia ser melhorado?
+
+- **Compartilhamento**:
+  - Cada grupo apresenta suas ideias sobre o projeto da livraria.
+
+- **Discussão**:
+  - Converse sobre as ideias apresentadas. O que foi bem feito? O que pode ser melhorado?
 
 ## Parte 4: Fechamento da Aula
 
 ### Atividades Complementares
-- **Tarefa para Casa**: Pesquise e traga para a próxima aula um exemplo de software que você acha que foi bem planejado e desenvolvido. Justifique sua escolha.
+
+- **Tarefa para Casa**:
+  - Encontre um software que você acha que foi bem planejado e desenvolvido. Traga um exemplo para a próxima aula e explique por que você acha que o planejamento e a execução foram bem feitos.
