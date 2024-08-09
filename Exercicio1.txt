@@ -1,0 +1,7 @@
+Nomes
+
+Requisitos Funcionais:
+
+Cadastro de Livros: O sistema deve permitir que a livraria registre novos livros com informações como título, autor, preço e quantidade em estoque.
+Cadastro de Clientes: Deve ser possível adicionar informações dos clientes, como nome e contato.
+Registro de Vendas: O sistema deve registrar as vendas feitas, associando livros vendidos e clientes.
