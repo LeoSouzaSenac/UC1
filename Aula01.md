@@ -64,8 +64,8 @@
 ### Apresentação do Estudo de Caso
 
 - **Cenário**:
-  - Imaginemos que você está criando um sistema para gerenciar uma pequena livraria.
-  - O que você precisa fazer para garantir que o sistema funcione bem?
+  - Imaginemos que você está criando um sistema de listas de tarefas. 
+  - - O que você precisa fazer para garantir que o sistema funcione bem?
 
 - **Objetivo**:
   - Descobrir e documentar as etapas necessárias para criar o sistema, como planejamento, design, implementação, testes e manutenção.
@@ -73,20 +73,20 @@
 ### Divisão em Grupos e Atividade Prática
 
 - **Formação de Grupos**:
-  - Divida-se em pequenos grupos para discutir o projeto.
+  - Divida-se em pequenos grupos para discutir um projeto.
 
 - **Tarefa do Grupo**:
-  - Planeje e documente as etapas para o sistema da livraria. Decida o que deve ser feito em cada etapa e como você vai fazer isso.
+  - Planeje e documente as etapas para o sistema. Decida o que deve ser feito em cada etapa e como você vai fazer isso.
 
 ### Apresentação dos Grupos e Discussão
 
 - **Compartilhamento**:
-  - Cada grupo apresenta suas ideias sobre o projeto da livraria.
+  - Cada grupo apresenta suas ideias sobre o projeto.
 
 - **Discussão**:
   - Converse sobre as ideias apresentadas. O que foi bem feito? O que pode ser melhorado?
 
-## Parte 4: Fechamento da Aula
+## Parte 4:
 
 ### Atividades Complementares
 
