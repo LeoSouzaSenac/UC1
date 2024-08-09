@@ -8,9 +8,9 @@ Um Diagrama de Entidade-Relacionamento (ER) é uma representação visual de com
 
 ### Componentes de um Diagrama ER:
 
-- **Entidades**: São as "coisas" ou "objetos" principais sobre os quais queremos armazenar informações. Exemplo: Livros, Clientes, Vendas.
-- **Atributos**: São as informações que descrevem as entidades. Exemplo: Para a entidade Livros, os atributos podem ser Título, Autor, Preço, Quantidade em Estoque.
-- **Relacionamentos**: Mostram como as entidades estão conectadas. Exemplo: Um relacionamento pode mostrar que "um cliente pode comprar muitos livros" e "um livro pode ser comprado por muitos clientes".
+- **Entidades**: São as "coisas" ou "objetos" principais sobre os quais queremos armazenar informações. Exemplo: Livros, Clientes, Vendas. Elas são representadas por retângulos.
+- **Atributos**: São as informações que descrevem as entidades. Exemplo: Para a entidade Livros, os atributos podem ser Título, Autor, Preço, Quantidade em Estoque. Os atributos são representados por círculos com seu nome e são conectados à entidade com uma linha.
+- **Relacionamentos**: Mostram como as entidades estão conectadas. Exemplo: Um relacionamento pode mostrar que "um cliente pode comprar livros" e "um livro pode ser comprado pelos clientes". Relacionamentos são representados por losangos e são conectados às entidades envolvidas com linhas.
 
 ### Por que usar um Diagrama ER?
 
