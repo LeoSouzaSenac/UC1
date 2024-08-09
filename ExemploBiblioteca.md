@@ -1,106 +1,75 @@
-# Estudo de Caso: Sistema de Gestão para Livraria
+# Estudo de Caso: Sistema de Gestão para uma Pequena Livraria
 
 ## Cenário
 
-Você foi contratado para desenvolver um sistema de gestão para uma pequena livraria. 
-O objetivo é criar um software que permita gerenciar o catálogo de livros, o estoque e as vendas. 
-
-O cliente deseja um sistema que inclua as seguintes funcionalidades:
-- Cadastro de livros.
-- Controle de estoque.
-- Registro de vendas.
-- Relatórios básicos de vendas e estoque.
+Você foi contratado para criar um sistema para gerenciar uma pequena livraria. O objetivo é ajudar a loja a controlar seus livros, clientes e vendas. Vamos ver como você pode planejar e executar esse projeto.
 
 ## Etapas do Projeto
 
 ### 1. Planejamento
 
-**Objetivos:**
-- Entender as necessidades do cliente.
-- Definir os requisitos do sistema.
-- Estabelecer o cronograma e recursos necessários.
+**Definição de Requisitos:**
 
-**Atividades:**
-- **Reunião com o Cliente:** Coletar informações sobre as necessidades e expectativas.
-- **Documentação de Requisitos:** Criar um documento detalhado com os requisitos funcionais e não funcionais.
-- **Planejamento de Recursos:** Estimar o tempo e recursos necessários para o projeto.
+- **Requisitos Funcionais:**
+  - **Cadastro de Livros:** O sistema deve permitir que a livraria registre novos livros com informações como título, autor, preço e quantidade em estoque.
+  - **Cadastro de Clientes:** Deve ser possível adicionar informações dos clientes, como nome e contato.
+  - **Registro de Vendas:** O sistema deve registrar as vendas feitas, associando livros vendidos e clientes.
 
-**Exemplo:**
-- **Reunião com o Cliente:** Descubra que a livraria precisa de um sistema simples e intuitivo que possa ser usado por funcionários com pouca experiência em tecnologia.
+- **Requisitos Não Funcionais:**
+  - **Desempenho:** O sistema deve carregar as informações rapidamente.
+  - **Segurança:** As informações dos clientes e livros devem ser protegidas contra acessos não autorizados.
+
+**Cronograma Básico:**
+
+1. **Semana 1:** Planejamento e definição dos requisitos.
+2. **Semana 2:** Design da interface e modelagem de dados.
+3. **Semana 3:** Codificação inicial.
+4. **Semana 4:** Testes de funcionalidade.
+5. **Semana 5:** Manutenção e ajustes.
 
 ### 2. Design
 
-**Objetivos:**
-- Criar a arquitetura do sistema.
-- Definir a estrutura de banco de dados.
-- Desenhar a interface do usuário.
+**Modelagem de Dados:**
 
-**Atividades:**
-- **Modelagem de Dados:** Criar diagramas de entidade-relacionamento (ER) para o banco de dados.
-- **Design da Interface:** Desenvolver wireframes e mockups da interface do usuário.
-- **Escolha de Tecnologias:** Decidir quais linguagens e ferramentas serão usadas.
+- **Diagrama de Entidade-Relacionamento (ER):**
+  - **Entidades:**
+    - **Livros:** Título, Autor, Preço, Quantidade.
+    - **Clientes:** Nome, Contato.
+    - **Vendas:** Data da Venda, Livro Vendido, Cliente.
 
-**Exemplo:**
-- **Modelagem de Dados:** Criar tabelas para livros, estoque e vendas. Relacionar as tabelas de livros e vendas.
-- **Design da Interface:** Wireframes mostram uma interface simples com menus para cadastro de livros, controle de estoque e registro de vendas.
+**Design da Interface:**
+
+- **Esboços Simples (Wireframes):**
+  - **Tela de Cadastro de Livros:** Campos para título, autor, preço e quantidade.
+  - **Tela de Cadastro de Clientes:** Campos para nome e contato.
+  - **Tela de Registro de Vendas:** Selecione livro, selecione cliente, registre a venda.
 
 ### 3. Implementação
 
-**Objetivos:**
-- Codificar o sistema de acordo com o design.
-- Integrar as diferentes partes do sistema.
+**Codificação:**
 
-**Atividades:**
-- **Desenvolvimento:** Programar as funcionalidades de cadastro de livros, controle de estoque e registro de vendas.
-- **Integração:** Certificar-se de que todas as partes do sistema funcionam juntas sem problemas.
-
-**Exemplo:**
-- **Cadastro de Livros:** Implementar um formulário para adicionar novos livros com campos como título, autor e preço.
-- **Controle de Estoque:** Criar uma funcionalidade para atualizar o estoque quando livros são vendidos.
+- **Transformar o Design em Código:**
+  - Criar as telas e funcionalidades baseadas nos esboços e requisitos definidos.
+  - Implementar a lógica para cadastrar livros, clientes e registrar vendas.
 
 ### 4. Testes
 
-**Objetivos:**
-- Garantir que o sistema funciona corretamente e atende aos requisitos.
-- Identificar e corrigir quaisquer problemas.
+**Testes de Funcionalidade:**
 
-**Atividades:**
-- **Testes de Funcionalidade:** Verificar se todas as funcionalidades estão funcionando conforme esperado.
-- **Testes de Usabilidade:** Garantir que a interface é intuitiva e fácil de usar.
-- **Correção de Bugs:** Identificar e corrigir erros encontrados durante os testes.
+- **Verificar se o Sistema Funciona:** Testar cada funcionalidade para garantir que os livros podem ser cadastrados, os clientes registrados e as vendas realizadas corretamente.
 
-**Exemplo:**
-- **Testes de Funcionalidade:** Testar a adição de novos livros e verificar se eles aparecem corretamente no catálogo.
-- **Testes de Usabilidade:** Pedir para alguns funcionários da livraria usarem o sistema e fornecerem feedback sobre a facilidade de uso.
+**Testes de Usabilidade:**
+
+- **Avaliar a Facilidade de Uso:** Verificar se o sistema é fácil de usar para os funcionários da livraria.
 
 ### 5. Manutenção
 
-**Objetivos:**
-- Atualizar o sistema conforme necessário.
-- Corrigir quaisquer problemas que surgirem após o lançamento.
+**Correção de Problemas:**
 
-**Atividades:**
-- **Atualizações:** Adicionar novas funcionalidades ou melhorias com base no feedback dos usuários.
-- **Correção de Problemas:** Resolver qualquer problema que surja durante o uso do sistema.
+- **Lidar com Erros:** Corrigir qualquer problema encontrado após o lançamento do sistema.
 
-**Exemplo:**
-- **Atualizações:** Adicionar uma nova funcionalidade para gerar relatórios de vendas mensais.
-- **Correção de Problemas:** Corrigir um bug que impede a atualização correta do estoque após uma venda.
+**Atualizações:**
 
-## Atividade Prática
+- **Adicionar Novas Funcionalidades:** Melhorar o sistema com base no feedback dos usuários e adicionar novas funções se necessário.
 
-Divida a turma em grupos e peça que cada grupo elabore um plano detalhado para o desenvolvimento do sistema da livraria, seguindo as etapas acima. Cada grupo deve criar um documento que inclua:
 
-1. **Planejamento:** Requisitos do sistema e cronograma.
-2. **Design:** Diagrama de banco de dados e wireframes da interface.
-3. **Implementação:** Estrutura do código e tecnologias escolhidas.
-4. **Testes:** Plano de testes e critérios de aceitação.
-5. **Manutenção:** Estratégia para atualizações e correção de problemas.
-
-### Apresentação dos Grupos
-
-Cada grupo terá 5 minutos para apresentar suas soluções e plano para o desenvolvimento do sistema da livraria. Em seguida, haverá uma discussão em grupo para analisar as abordagens e oferecer feedback construtivo.
-
----
-
-Ao final da atividade, você terá uma visão prática de como um projeto de software é planejado e executado, desde a concepção até a manutenção. Boa sorte e divirta-se explorando o mundo do desenvolvimento de software!
