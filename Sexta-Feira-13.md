@@ -1,7 +1,7 @@
 ## Exercício: Planejamento de Software - Sexta-feira 13
 
 ### Objetivo:
-Nesta atividade temática, vocês irão praticar o **planejamento de software** utilizando metodologias ágeis e tradicionais, enquanto ajudam a desenvolver o **Mansão Manager**, um software mal-assombrado. O objetivo é entender as diferenças entre as metodologias e como elas lidam com mudanças e entregas.
+Nesta atividade temática, vocês irão praticar o **planejamento de software** utilizando metodologias ágeis, enquanto ajudam a desenvolver o **Mansão Manager**, um software mal-assombrado. O objetivo é entender as diferenças entre as metodologias e como elas lidam com mudanças e entregas.
 
 ### Cenário:
 Vocês foram contratados por uma mansão mal-assombrada para desenvolver o **Mansão Manager**, um sistema que organiza eventos de assombrações, gerencia fantasmas e mantém o controle sobre as atividades noturnas da mansão. Porém, o cliente (eu, o professor) é imprevisível e fará solicitações e mudanças durante o processo, desafiando suas equipes.
