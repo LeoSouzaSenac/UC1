@@ -14,6 +14,8 @@ Vocês foram contratados por uma mansão mal-assombrada para desenvolver o **Man
    - O **Mansão Manager** deve ter as seguintes funcionalidades:
      - Agendamento de sustos.
      - Controle de fantasmas.
+     - Sistema de defesa contra vampiros (eu não gosto deles)
+     - O app deve ter um logo
      
 
 3. **Planejamento:**
