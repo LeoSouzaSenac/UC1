@@ -16,6 +16,7 @@ Vocês foram contratados por uma mansão mal-assombrada para desenvolver o **Man
      - Controle de fantasmas.
      - Sistema de defesa contra vampiros (eu não gosto deles)
      - O app deve ter um logo
+     - Sistema de Customização de Assombrações
      
 
 3. **Planejamento:**
