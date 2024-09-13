@@ -27,7 +27,7 @@ Vocês foram contratados por uma mansão mal-assombrada para desenvolver o **Man
    - Podem usar ferramentas como **Canvas**, **Draw.io**, **Marvel App**, **MockFlow**, **Wireframe.cc** ou **Moqups** para criar os protótipos.
 
 6. **Apresentação:**
-   - Ao final, cada grupo apresentará seu planejamento e protótipo final, explicando como a metodologia escolhida influenciou o processo e as dificuldades enfrentadas.
+   - Ao final, cada grupo apresentará seu planejamento e protótipo final, explicando como a metodologia ágil influenciou o processo e as dificuldades enfrentadas.
 
 ### Materiais:
 - Ferramentas online para wireframes e prototipagem.
