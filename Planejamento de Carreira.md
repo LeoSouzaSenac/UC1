@@ -236,15 +236,3 @@ Procurar um emprego pode parecer desafiador, mas com as estratégias certas, voc
 O planejamento de carreira é um processo contínuo e pode levar tempo, mas é fundamental para alcançar seus objetivos profissionais em Desenvolvimento de Sistemas. Lembre-se de que cada passo conta e que, com dedicação e planejamento, você pode construir uma carreira de sucesso na área.
 
 
-### Exercícios:
-
-1) Enviar e-mail de apresentação ao professor com o currículo disponível que vocês tem. Se não tiver Linkedin criar o perfil na rede social.
-Adicionar Mariana Castilhos Deve conter Assunto: Nome Completo - Vaga para tal emprego.
-
-Texto de apresentação;
-Breve descrição sobre experiência,
-Como você pode ajudar a empresa;
-Currículo em anexo;
-Link do portfólio (caso tenha).
-
-
